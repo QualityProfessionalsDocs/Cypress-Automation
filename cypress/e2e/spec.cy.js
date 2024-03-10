@@ -1,3 +1,6 @@
+//This Cypress test script automates user registration on a web application using data from an Excel spreadsheet, verifying successful registration for each user.
+
+
 describe("Automate Web Interactions", function () {
   it("Fill and submit a form", function () {
     // Visit the webpage
