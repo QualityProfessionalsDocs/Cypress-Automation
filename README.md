@@ -15,7 +15,7 @@ This repository contains automated test scripts written using Cypress, a JavaScr
 
 ## Introduction
 
-This project is aimed at automating the testing of [Web Application Name]. It includes test scripts written in JavaScript using the Cypress framework. The tests cover various scenarios such as user registration, login, product browsing, and checkout process.
+This project is aimed at automating the testing of [https://demowebshop.tricentis.com]. It includes test scripts written in JavaScript using the Cypress framework. The tests cover various scenarios such as user registration, login, product browsing, and checkout process.
 
 ## Getting Started
 
